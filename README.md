@@ -1,2 +1,2 @@
 # FlutterWebImageIssue
-Sample code - flutter issue on web with toByteData
+Sample code - flutter issue when using `toByteData` on web 
